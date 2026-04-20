@@ -11,3 +11,4 @@ plugins:
 # Add this section to control the top menu:
 header_pages:
   - about.md
+  - why.md
