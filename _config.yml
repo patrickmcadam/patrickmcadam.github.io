@@ -8,3 +8,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+# Add this section to control the top menu:
+header_pages:
+  - about.md
