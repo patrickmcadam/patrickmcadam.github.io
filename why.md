@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Decision to Race"
+title:  "Why I am racing"
 date:   2026-04-16 12:00:00 +0100
 categories: goals motivation
 ---
