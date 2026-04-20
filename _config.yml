@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: My Triathlon Journey
+email: your-email@example.com
+description: >-
+  Documenting my training, challenges, and triumphs on the road to my triathlon.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
